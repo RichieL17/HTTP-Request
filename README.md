@@ -1,2 +1,0 @@
-# HTTP-Request
-Individual Prototype 
